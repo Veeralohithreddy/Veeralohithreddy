@@ -51,12 +51,12 @@ Completed internships at **Zoho** and **EduExpose**.
 ## 🏢 Internships
 
 ### 🔸 Zoho Corporation
-- **Role:** Skill Taxonomy Management System  
+-  Skill Taxonomy Management System  
 - **Tools:** Pandas, Streamlit  
 - **Highlights:** Processed and structured data, built interactive apps  
 
 ### 🔸 EduExpose
-- **Role:** ML Workflow Developer  
+
 - **Tools:** Pandas, NumPy, Scikit-learn  
 - **Highlights:** Built & evaluated ML models, worked on data pipelines  
 
@@ -65,7 +65,7 @@ Completed internships at **Zoho** and **EduExpose**.
 ## 🎓 Education
 | Degree | Institution | Year |
 |--------|------------|------|
-| B.Tech CSE | Your College Name | 2020–2024 |
+| B.Tech CSE | Saveetha School of Engineering | 2023–2027 |
 
 ---
 
@@ -90,9 +90,7 @@ To start my career as a **Software Engineer** and contribute to building **impac
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Python+Developer;ML+Enthusiast;Aspiring+Software+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Python+Developer;Aspiring+Software+Engineer" />
 </p>
 
-<p align="center">
-  ![](https://komarev.com/ghpvc/?username=Veeralohithreddy&color=blue)
-</p>
+
