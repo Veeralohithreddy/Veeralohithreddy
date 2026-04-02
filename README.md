@@ -68,15 +68,7 @@ Completed internships at **Zoho** and **EduExpose**.
 |--------|------------|------|
 | B.Tech CSE | Saveetha School of Engineering | 2023–2027 |
 
----
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Veeralohithreddy&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Veeralohithreddy&theme=tokyonight" />
-</p>
-
----
 
 ## 📫 Connect with Me
 [📧 Email](mailto:vangalaveeralohithreddy1@gmail.com)  
