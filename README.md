@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Veera Lohith Reddy
+# Hi, I'm Veera Lohith Reddy
 
 🎓 B.Tech CSE Student  
 💻 Aspiring Software Engineer  
