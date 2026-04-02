@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Veera Lohith Reddy</h1>
 <h3 align="center">🎓 B.Tech CSE Student | 💻 Aspiring Software Engineer | 📍 India</h3>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="600"/>
-</p>
-
 ---
 
 ## 🌟 About Me
