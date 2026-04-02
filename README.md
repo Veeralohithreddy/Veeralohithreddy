@@ -50,15 +50,16 @@ Completed internships at **Zoho** and **EduExpose**.
 
 ## 🏢 Internships
 
-### 🔸 Zoho Corporation
--  Skill Taxonomy Management System  
-- **Tools:** Pandas, Streamlit  
-- **Highlights:** Processed and structured data, built interactive apps  
+**🔸 Zoho Corporation**  
+- Worked on **Skill Taxonomy Management System**  
+- Processed and structured data using **Pandas**  
+- Built interactive applications using **Streamlit**  
+- Improved skill-matching workflow and application efficiency  
 
-### 🔸 EduExpose
-
-- **Tools:** Pandas, NumPy, Scikit-learn  
-- **Highlights:** Built & evaluated ML models, worked on data pipelines  
+**🔸 EduExpose**  
+- Worked on **Machine Learning workflows**  
+- Built and evaluated **ML models** using Pandas, NumPy, Scikit-learn  
+- Automated ML pipelines and performed detailed data analysis  
 
 ---
 
