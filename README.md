@@ -39,12 +39,12 @@ Completed internships at **Zoho** and **EduExpose**.
 ### 🔹 Smart Job Recommendation System
 - **Tech:** Python, Streamlit, SQL  
 - **Features:** Skill-matching algorithm, interactive UI, real-time results  
-- [🔗 Project Link](https://github.com/Veeralohithreddy/Smart-Job-Recommendation-System/tree/main)  
+
 
 ### 🔹 Heart Disease Prediction
 - **Tech:** Python, Random Forest, Pandas, NumPy, Scikit-learn  
 - **Features:** Data preprocessing, ML model evaluation, improved prediction accuracy  
-- [🔗 Project Link](#)  
+
 
 ---
 
